@@ -10,7 +10,7 @@ public class Computer {
     private Usb UImpl;
 
     public Computer(){
-
+      sadkjasd
     }
 
     public Computer(Usb usb) {
